@@ -1,0 +1,17 @@
+{
+    "userInfo": {
+        "name": "xyz",
+        "location": "bangalore",
+        "phone": 2424123,
+        "hobbies": [
+            "coding",
+            "listening music"
+        ],
+        "otherDetails": [
+            {
+                "nickName": "xx",
+                "area": "some area"
+            }
+        ]
+    }
+}
